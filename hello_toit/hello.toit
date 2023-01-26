@@ -1,3 +1,4 @@
 main:
-    print "Hello Toit"
-    
+    while true:
+        print "Hello, World!"
+        sleep --ms=3000
