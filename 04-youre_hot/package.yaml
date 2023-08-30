@@ -1,0 +1,4 @@
+dependencies:
+  aht20_driver:
+    url: github.com/davidlao2k/aht20-driver.git
+    version: ^1.0.0
